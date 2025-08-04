@@ -1,0 +1,28 @@
+.Filters{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.Filters > div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.Filters select {
+  padding: 4px 12px;
+  font-size: 13px;
+  border-radius: 4px;
+  border: 2px solid white;
+  background: #007bff;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.2s;
+}
+
+.Filters select:hover,
+.Filters select:focus {
+  background-color: #0056b3;
+}
