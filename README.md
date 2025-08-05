@@ -28,8 +28,7 @@ demonstrating **React state management, CRUD operations, and API integration** u
 ## 🧑‍💻 Technologies Used
 - **React (Vite)** – Frontend framework  
 - **MockAPI** – For backend CRUD operations  
-- **Axios** – For API requests  
-- **CSS / Tailwind / Custom Styling** – For responsive UI  
+- **Axios** – For API requests 
 - **Git & GitHub** – For version control
 
 ---
